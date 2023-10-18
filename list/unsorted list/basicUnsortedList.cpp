@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 int main(){
@@ -8,13 +8,11 @@ int main(){
 
     // add items to the list
 
-
-    unsortedList[0] = 4.2;
+    unsortedList[0] = 48;
     unsortedList[1] = 422;
     unsortedList[2] = 423;
     unsortedList[3] = 424;
     unsortedList[4] = 425;
-
 
     // printing the items in the list 
 
